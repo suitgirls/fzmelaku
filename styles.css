@@ -3,3 +3,7 @@ background-color: aquamarine;
 font-family: Verdana, Geneva, Tahoma, sans-serif;}
 nav {background-color: slategrey;}
 nav a :hover {background-color:gray}
+nav {
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: slategrey;}
