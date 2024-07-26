@@ -1,4 +1,5 @@
 body {color:darkslategray;
 background-color: aquamarine;
 font-family: Verdana, Geneva, Tahoma, sans-serif;}
-
+nav {background-color: slategrey;}
+nav a :hover {background-color:gray}
